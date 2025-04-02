@@ -1,4 +1,3 @@
-# Stock_price_pridiction
 # Stock Prediction using Linear Regression
 
 ## Overview
